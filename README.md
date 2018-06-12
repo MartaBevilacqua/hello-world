@@ -1,3 +1,3 @@
-# hello-world
-Ciao a tutti!
-Sono Marta :-)
+git config --global user.name 'MartaBevilacqua'
+git config --global marta.bevilacqua@accenture.com
+
